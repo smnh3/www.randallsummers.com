@@ -1,0 +1,86 @@
+body
+{
+background-color:LightGray;
+font-size:100%;
+}
+
+h1
+{
+color:Black;
+text-align:left;
+font-family:"Arial", sans-serif;
+font-size:2.5em;
+}
+
+h2
+{
+color:Black;
+text-align:left;
+font-family:"Arial", sans-serif;
+font-size:1.875em;
+}
+
+p
+{
+color:Black;
+text-align:left;
+text-indent:50px;
+font-family:"Arial", sans-serif;
+font-size:0.875em;
+}
+
+a:link
+{
+color:Black;
+text-align:left;
+text-decoration:none;
+font-family:"Arial", sans-serif;
+font-size:0.875em;
+}
+
+a:visited
+{
+color:Black;
+text-align:left;
+text-decoration:none;
+font-family:"Arial", sans-serif;
+font-size:0.875em;
+}
+
+a:hover
+{
+color:Black;
+text-align:left;
+text-decoration:underline;
+font-family:"Arial", sans-serif;
+font-size:0.875em;
+}
+
+a:active
+{
+color:Black;
+text-align:left;
+text-decoration:underline;
+font-family:"Arial", sans-serif;
+font-size:0.875em;
+}
+
+span
+{
+color:Black;
+text-align:left;
+font-family:"Arial", sans-serif;
+font-size:0.875em;
+font-weight:bold;
+}
+
+div
+{
+border:2px solid #a1a1a1;
+padding:10px 40px;
+background:white;
+border-radius:25px;
+display:inline;
+float:left;
+margin:10px;
+}
