@@ -29,6 +29,15 @@ font-family:"Arial", sans-serif;
 font-size:0.875em;
 }
 
+address
+{
+color:Black;
+text-align:left;
+font-family:"Arial", sans-serif;
+font-size:0.875em;
+font-style:normal;
+}
+
 a:link
 {
 color:Black;
@@ -65,7 +74,12 @@ font-family:"Arial", sans-serif;
 font-size:0.875em;
 }
 
-span
+a.socialMedia
+{
+margin-left:5px
+}
+
+span.currentPage
 {
 color:Black;
 text-align:left;
@@ -74,9 +88,27 @@ font-size:0.875em;
 font-weight:bold;
 }
 
+span.footerLeft
+{
+color:grey;
+text-align:left;
+font-family:"Arial", sans-serif;
+font-size:0.75em;
+position:absolute;
+bottom:5px;
+left:5px;
+}
+
+span.footerRight
+{
+position:absolute;
+bottom:5px;
+right:5px;
+}
+
 div
 {
-border:2px solid #a1a1a1;
+border:2px solid darkGrey;
 padding:10px 40px;
 background:white;
 border-radius:25px;
